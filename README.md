@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Andrés Mancera!
+Soy tecnólogo en formación (ADSO - SENA) apasionado por el desarrollo web y la programación.
 
-<!--
-**Andres0607MP/Andres0607MP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Proyectos Importantes
+- [AutoPass](https://github.com/Andres0607MP/AutoPass) — Sistema web de control de parqueaderos.
+- [Proyecto_TS](https://github.com/Andres0607MP/Proyecto_TS) — Aplicación en TypeScript para gestión de datos.
+- [proyecto](https://github.com/Andres0607MP/proyecto) — Proyecto base de práctica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📘 Repositorios de Estudio
+- [Ejercicios](https://github.com/Andres0607MP/Ejercicios) — Ejercicios básicos y prácticos de programación.
+- [Git-Commands](https://github.com/Andres0607MP/Git-Commands) — Comandos y ejemplos de Git y GitHub.
+- [Guia_Tailwind](https://github.com/Andres0607MP/Guia_Tailwind) — Guía para aprender Tailwind CSS.
+
+[![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)]()
+[![HTML5](https://img.shields.io/badge/Markup-HTML5-orange)]()
+[![CSS3](https://img.shields.io/badge/Style-CSS3-blue)]()
+[![GitHub](https://img.shields.io/badge/Control-GitHub-black)]()
+
+---
+
+## 🧠 Sobre mí
+Actualmente en formación en **Análisis y Desarrollo de Software (SENA)**.  
+Enfocado en buenas prácticas, arquitectura web y control de versiones con Git.
+
