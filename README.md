@@ -88,6 +88,8 @@
     <td><img alt="HTML5" title="HTML5" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"/></td>
     <td><img alt="CSS3" title="CSS3" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"/></td>
     <td><img alt="JavaScript" title="JavaScript" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"/></td>
+    <td><img alt="MySQL" title="MySQL" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"/></td>
+    <td><img alt="PHP" title="PHP" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"/></td>
     <td><img alt="TypeScript" title="TypeScript" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"/></td>
     <td><img alt="Node.js" title="Node.js" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"/></td>
     <td><img alt="Python" title="Python" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"/></td>
