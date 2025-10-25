@@ -13,8 +13,8 @@
 
 * 💻 Soy estudiante del **SENA**, en la carrera **Tecnólogo en Análisis y Desarrollo de Software (ADSO)**.  
 * 🌐 Apasionado por el desarrollo **web frontend**, la programación y el diseño UI/UX.  
-* 🧠 Actualmente aprendiendo **JavaScript**, **Bootstrap**, **TailwindCSS** y **Python**.  
-* 🕹️ Me gusta combinar el código con la creatividad (y jugar un poco de Geometry Dash 😎).  
+* 🧠 Actualmente aprendiendo **freamework JavaScript como Angular** y **Python**.
+* 🕹️ Me gusta combinar el código con la creatividad.  
 * 🚀 Mi meta: convertirme en un desarrollador profesional y construir proyectos útiles y bien diseñados.  
 
 <p align="left">
