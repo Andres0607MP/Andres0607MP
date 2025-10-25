@@ -95,6 +95,7 @@
     <td><img alt="TailwindCSS" title="TailwindCSS" height="28px" src="https://img.icons8.com/color/48/tailwindcss.png"/></td>
     <td><img alt="Bootstrap" title="Bootstrap" height="28px" src="https://img.icons8.com/color/48/bootstrap.png"/></td>
     <td><img alt="Git" title="Git" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"/></td>
+    <td><img alt="Linux" title="Linux" height="28px" src="https://img.icons8.com/color/48/linux--v1.png"/></td>
     <td><img alt="Arch Linux" title="Arch Linux" height="28px" src="https://img.icons8.com/color/48/arch-linux.png"/></td>
     <td><img alt="VS Code" title="Visual Studio Code" height="28px" src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png"/></td>
   </tr>
