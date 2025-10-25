@@ -85,23 +85,31 @@
 
 <table>
   <tr>
+    <!-- Lenguajes -->
     <td><img alt="HTML5" title="HTML5" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"/></td>
     <td><img alt="CSS3" title="CSS3" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"/></td>
     <td><img alt="JavaScript" title="JavaScript" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"/></td>
-    <td><img alt="MySQL" title="MySQL" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"/></td>
-    <td><img alt="PHP" title="PHP" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"/></td>
     <td><img alt="TypeScript" title="TypeScript" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"/></td>
-    <td><img alt="Node.js" title="Node.js" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"/></td>
     <td><img alt="Python" title="Python" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"/></td>
+    <td><img alt="PHP" title="PHP" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"/></td>
+  </tr>
+  <tr>
+    <!-- Bases de datos y frameworks -->
+    <td><img alt="MySQL" title="MySQL" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"/></td>
+    <td><img alt="Node.js" title="Node.js" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"/></td>
     <td><img alt="Jupyter" title="Jupyter Notebook" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png"/></td>
     <td><img alt="TailwindCSS" title="TailwindCSS" height="28px" src="https://img.icons8.com/color/48/tailwindcss.png"/></td>
     <td><img alt="Bootstrap" title="Bootstrap" height="28px" src="https://img.icons8.com/color/48/bootstrap.png"/></td>
     <td><img alt="Git" title="Git" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"/></td>
-    <td><img alt="Linux" title="Linux" height="28px" src="https://img.icons8.com/color/48/linux--v1.png"/></td>
+  </tr>
+  <tr>
+    <!-- Sistema y entorno -->
     <td><img alt="Arch Linux" title="Arch Linux" height="28px" src="https://img.icons8.com/color/48/arch-linux.png"/></td>
+    <td><img alt="Linux" title="Linux" height="28px" src="https://img.icons8.com/color/48/linux--v1.png"/></td>
     <td><img alt="VS Code" title="Visual Studio Code" height="28px" src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png"/></td>
   </tr>
 </table>
+
 
 ---
 
