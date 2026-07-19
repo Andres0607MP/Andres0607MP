@@ -1,6 +1,6 @@
 <a href="https://github.com/Andres0607MP">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andres0607MP/main/dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Andres0607MP/Andres0607MP/blob/main/dark.svg">
     <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/Andres0607MP/main/light.svg">
   </picture>
   
